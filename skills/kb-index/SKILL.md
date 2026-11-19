@@ -19,7 +19,7 @@ description: >-
 
 1. Строка в `knowledge-base/indexes/sources.md`.
 2. Клон на диске **или** MCP источника (для git часто GitHub MCP). Агент не клонирует.
-3. В шапке `AGENTS.md` этот скилл — «сейчас».
+3. В шапке `knowledge-base/AGENTS.md` этот скилл — «сейчас».
 
 ## Когда
 

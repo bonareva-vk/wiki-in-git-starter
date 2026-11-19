@@ -1,6 +1,6 @@
 # Каталог
 
-Правила — в [AGENTS.md](../AGENTS.md).
+Правила — в [AGENTS.md](AGENTS.md).
 
 ## Команда
 

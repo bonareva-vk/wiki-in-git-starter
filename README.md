@@ -14,7 +14,7 @@
 ```
 .
 ├── knowledge-base/     образец базы
-├── AGENTS.md           правила для агента
+│   └── AGENTS.md       правила для агента
 └── skills/
     ├── kb-search/
     ├── kb-maintain/
@@ -22,7 +22,7 @@
     └── kb-index/       потом
 ```
 
-Не отдавайте агенту merge. Не копируйте в wiki то, у чего уже есть дом (спека в другом репо, портал). `AGENTS.md` и файлы `SKILL.md` читает агент.
+Не отдавайте агенту merge. Не копируйте в wiki то, у чего уже есть дом (спека в другом репо, портал). `knowledge-base/AGENTS.md` и файлы `SKILL.md` читает агент.
 
 Формат страниц — [OKF](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md). Процесс — [llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
 
